@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/Kacper_D/static/css/main.fac5e700.css",
-    "main.js": "/Kacper_D/static/js/main.d1114dff.js",
+    "main.css": "/Kacper_D/static/css/main.87813395.css",
+    "main.js": "/Kacper_D/static/js/main.c557fcdb.js",
+    "static/media/kac_per.webp": "/Kacper_D/static/media/kac_per.fc3855d4d0f8549ac962.webp",
+    "static/media/logo.webp": "/Kacper_D/static/media/logo.bb8fb9799a6b87bc402e.webp",
+    "static/media/e_o_logo.webp": "/Kacper_D/static/media/e_o_logo.d8da69b14be27a063be3.webp",
     "index.html": "/Kacper_D/index.html",
-    "main.fac5e700.css.map": "/Kacper_D/static/css/main.fac5e700.css.map",
-    "main.d1114dff.js.map": "/Kacper_D/static/js/main.d1114dff.js.map"
+    "main.87813395.css.map": "/Kacper_D/static/css/main.87813395.css.map",
+    "main.c557fcdb.js.map": "/Kacper_D/static/js/main.c557fcdb.js.map"
   },
   "entrypoints": [
-    "static/css/main.fac5e700.css",
-    "static/js/main.d1114dff.js"
+    "static/css/main.87813395.css",
+    "static/js/main.c557fcdb.js"
   ]
 }
