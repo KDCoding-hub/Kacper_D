@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/Kacper_D/static/css/main.87813395.css",
-    "main.js": "/Kacper_D/static/js/main.c557fcdb.js",
+    "main.css": "/Kacper_D/static/css/main.16840265.css",
+    "main.js": "/Kacper_D/static/js/main.c7689962.js",
     "static/media/kac_per.webp": "/Kacper_D/static/media/kac_per.fc3855d4d0f8549ac962.webp",
+    "static/media/2.webp": "/Kacper_D/static/media/2.6b6aa85d9269fe6494c9.webp",
+    "static/media/6.webp": "/Kacper_D/static/media/6.0ed2c633e77a1091b2ce.webp",
+    "static/media/3.webp": "/Kacper_D/static/media/3.8d97a652e6d98b18d957.webp",
+    "static/media/7.webp": "/Kacper_D/static/media/7.b3c1c117e043110d3f49.webp",
+    "static/media/4.webp": "/Kacper_D/static/media/4.1dd8631f7d50647a5f08.webp",
+    "static/media/8.webp": "/Kacper_D/static/media/8.a738deac2f2da225c034.webp",
     "static/media/logo.webp": "/Kacper_D/static/media/logo.bb8fb9799a6b87bc402e.webp",
+    "static/media/5.webp": "/Kacper_D/static/media/5.445bd314455e6dea9599.webp",
     "static/media/e_o_logo.webp": "/Kacper_D/static/media/e_o_logo.d8da69b14be27a063be3.webp",
     "index.html": "/Kacper_D/index.html",
-    "main.87813395.css.map": "/Kacper_D/static/css/main.87813395.css.map",
-    "main.c557fcdb.js.map": "/Kacper_D/static/js/main.c557fcdb.js.map"
+    "main.16840265.css.map": "/Kacper_D/static/css/main.16840265.css.map",
+    "main.c7689962.js.map": "/Kacper_D/static/js/main.c7689962.js.map"
   },
   "entrypoints": [
-    "static/css/main.87813395.css",
-    "static/js/main.c557fcdb.js"
+    "static/css/main.16840265.css",
+    "static/js/main.c7689962.js"
   ]
 }
