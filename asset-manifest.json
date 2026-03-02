@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Kacper_D/static/css/main.16840265.css",
-    "main.js": "/Kacper_D/static/js/main.c7689962.js",
+    "main.css": "/Kacper_D/static/css/main.3652f150.css",
+    "main.js": "/Kacper_D/static/js/main.d131cafe.js",
     "static/media/kac_per.webp": "/Kacper_D/static/media/kac_per.fc3855d4d0f8549ac962.webp",
     "static/media/2.webp": "/Kacper_D/static/media/2.6b6aa85d9269fe6494c9.webp",
     "static/media/6.webp": "/Kacper_D/static/media/6.0ed2c633e77a1091b2ce.webp",
@@ -13,11 +13,11 @@
     "static/media/5.webp": "/Kacper_D/static/media/5.445bd314455e6dea9599.webp",
     "static/media/e_o_logo.webp": "/Kacper_D/static/media/e_o_logo.d8da69b14be27a063be3.webp",
     "index.html": "/Kacper_D/index.html",
-    "main.16840265.css.map": "/Kacper_D/static/css/main.16840265.css.map",
-    "main.c7689962.js.map": "/Kacper_D/static/js/main.c7689962.js.map"
+    "main.3652f150.css.map": "/Kacper_D/static/css/main.3652f150.css.map",
+    "main.d131cafe.js.map": "/Kacper_D/static/js/main.d131cafe.js.map"
   },
   "entrypoints": [
-    "static/css/main.16840265.css",
-    "static/js/main.c7689962.js"
+    "static/css/main.3652f150.css",
+    "static/js/main.d131cafe.js"
   ]
 }
